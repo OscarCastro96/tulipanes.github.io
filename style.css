@@ -11,7 +11,7 @@ body{
     align-items: center;
     justify-content: center;
     background-color: black;
-    /* padding-top: -30; */
+    padding: 10px 20px; /* Reduce el padding para que suba más */
 }
 
 .botones{
