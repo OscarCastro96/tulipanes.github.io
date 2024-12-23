@@ -5,10 +5,10 @@ var lyrics = document.querySelector("#lyrics");
 // Array de objetos que contiene cada línea y su tiempo de aparición en segundos
 var lyricsData = [
   { text: "Eres y siempre seras el amor de mi vida", time: 15 },
-  { text: "No importa el tiempo que pase", time: 18 },
-  { text: "Yo estare aqui para ti", time: 27 },
-  { text: "Para entregarte todo lo que te prometi", time: 32 },
-  { text: "te amo", time: 33 },
+  { text: "Sin importar el tiempo que pase", time: 18 },
+  { text: "En las buenas y en las malas", time: 27 },
+  { text: "Te daré todo lo que nos prometí", time: 32 },
+  { text: "Te amo", time: 40 },
 ];
 
 // Animar las letras
